@@ -23,7 +23,7 @@ const footerLinks = {
   ],
   Contact: [
     { label: "WhatsApp", href: "https://wa.me/923104451451" },
-    { label: "Email", href: "mailto:ease.ecommerce@email.com" },
+    { label: "Email", href: "mailto:info@easeecommerce.org" },
     { label: "LinkedIn", href: "#" },
   ],
 };

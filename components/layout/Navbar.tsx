@@ -81,7 +81,7 @@ export default function Navbar() {
           {/* CTA */}
           <div className="hidden lg:flex items-center gap-4">
             <a
-              href="mailto:ease.ecommerce@email.com"
+              href="mailto:info@easeecommerce.org"
               className="text-sm font-medium text-[#52525B] hover:text-[#09090B] transition-colors"
             >
               Get in Touch

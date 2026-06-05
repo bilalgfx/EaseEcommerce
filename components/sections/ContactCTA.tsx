@@ -28,8 +28,8 @@ const contactMethods = [
       </svg>
     ),
     label: "Email",
-    value: "najam@ease-ecommerce.com",
-    href: "mailto:najam@ease-ecommerce.com",
+    value: "info@easeecommerce.org",
+    href: "mailto:info@easeecommerce.org",
     color: "#2563EB",
     bg: "bg-blue-50 border-blue-200",
   },
